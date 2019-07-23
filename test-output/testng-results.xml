@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Search box is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[TV result searched and validated]]>
+    </line>
+    <line>
+      <![CDATA[TV is present in page title]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22421" started-at="2019-07-21T13:49:46Z" finished-at="2019-07-21T13:50:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22421" started-at="2019-07-21T13:49:46Z" finished-at="2019-07-21T13:50:08Z">
+      <class name="com.vit.FlipkartAssignment.Flipkart_Demo">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.vit.FlipkartAssignment.Flipkart_Demo@5ae9a829]" name="setup" is-config="true" duration-ms="24" started-at="2019-07-21T19:19:46Z" finished-at="2019-07-21T19:19:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="store_data_to_HashMap()[pri:0, instance:com.vit.FlipkartAssignment.Flipkart_Demo@5ae9a829]" name="store_data_to_HashMap" duration-ms="22361" started-at="2019-07-21T19:19:46Z" finished-at="2019-07-21T19:20:08Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[Search box is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[TV result searched and validated]]>
+            </line>
+            <line>
+              <![CDATA[TV is present in page title]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- store_data_to_HashMap -->
+      </class> <!-- com.vit.FlipkartAssignment.Flipkart_Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
